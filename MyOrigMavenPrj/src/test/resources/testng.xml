@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="MyMaven" verbose="1">
+  <test name="Tests">
+    <classes>
+        <class name="com.java.test.ex.TestEx" /> 
+        <class name="com.java.test.ex.AppTest" />
+        <class name="com.java.test.ex.SecondTestclass" />
+    </classes>
+      
+  </test>
+</suite>
