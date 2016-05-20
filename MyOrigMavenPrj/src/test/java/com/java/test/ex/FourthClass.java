@@ -7,5 +7,6 @@ public class FourthClass {
 public void fourthfn()
 {
 	System.out.print("in fourth fn");
+	System.out.print("added line in fourth for practise branch");
 }
 }
